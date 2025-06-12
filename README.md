@@ -37,7 +37,3 @@ pip install pandas matplotlib seaborn jupyter
 - Make sure `RTA Dataset.csv` is in the same directory as the notebook.
 - The analysis assumes cleaned, structured data.
 
-## 🧑‍💻 Author
-
-Sanju Kumar  
-Email: shawkumarsanju5@gmail.com
